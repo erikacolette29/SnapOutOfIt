@@ -73,33 +73,7 @@ function MantraPage(props) {
           </>
         </>
 
-        {/* <div>
-          {mantras.map(
-            mantra => (
-              <>
-                <MantraCard
-                  mantra={mantra}
-                  handleDeleteMantra={handleDeleteMantra}
-                  key={mantra._id}
-                />
-              
-              
-                <EditMantraCard
-                  mantra={mantra}
-                  handleUpdateMantra={handleUpdateMantra}
-                  key={mantra._id}
-                />
-              
-              
-                <AddMantraCard
-                  mantra={mantra}
-                  handleAddMantra={handleAddMantra}
-                  key={mantra._id}
-                />
-              </>
-            )
-          )}
-        </div> */}
+        
       </div>
     </>
   );
