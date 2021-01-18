@@ -53,7 +53,7 @@ function AffirmationPage(props) {
       <div>
       <>
       <>
-        <AddAffirmationCard
+        <AddAffirmationCard affirmation={affirmations.length}
          handleAddAffirmation={handleAddAffirmation}
          />
         </>
