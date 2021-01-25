@@ -6,10 +6,10 @@ Heroku: (link)
 
 ## Getting Started
 
-Deploy the app: TBD
+Deploy the app: Heroku: https://snap-out-of-it.herokuapp.com/
 
 Trello board: https://trello.com/b/5GaF2ssf/snap-out-of-it
-Heroku: https://snap-out-of-it.herokuapp.com/
+
 
 # ERD
 
