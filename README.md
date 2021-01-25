@@ -9,6 +9,7 @@ Heroku: (link)
 Deploy the app: TBD
 
 Trello board: https://trello.com/b/5GaF2ssf/snap-out-of-it
+Heroku: https://snap-out-of-it.herokuapp.com/
 
 # ERD
 
