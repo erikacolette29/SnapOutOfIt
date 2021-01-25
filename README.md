@@ -17,9 +17,6 @@ Heroku: https://snap-out-of-it.herokuapp.com/
 
 ## Screenshots
 
-### Landing Page
-
-## ![landing page](TBD)
 
 ### SCREENSHOT TWO
 
