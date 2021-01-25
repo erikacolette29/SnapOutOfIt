@@ -2,11 +2,9 @@
 
 The app to help you get through a breakup, or any other kind of heartbreak. This MERN app uses a mix of user action steps and available resources to address how hard and overwhelming heartbreak can feel, and to help users in all stages of grief help navigate towards healing and embrace empathy.
 
-Heroku: (link)
+Heroku: https://snap-out-of-it.herokuapp.com/
 
 ## Getting Started
-
-Deploy the app: Heroku: https://snap-out-of-it.herokuapp.com/
 
 Trello board: https://trello.com/b/5GaF2ssf/snap-out-of-it
 
